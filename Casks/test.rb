@@ -1,6 +1,6 @@
 cask "test" do
-  version "0.2-6756"
-  sha256 "a792e5526e27d7149ec0569a98bdf507da7f001ce3cfc5bebd2e6d05de7c9911"
+  version "0.2-6757"
+  sha256 "4ab48febfbc0860b5480eb9b0dca1eeb3d0076529fb957c2b13c2e556c29a810"
 
   url "https://github.com/accupara/crave/releases/download/#{version}/crave-#{version}-darwin-amd64.bin"
   name "Crave"
